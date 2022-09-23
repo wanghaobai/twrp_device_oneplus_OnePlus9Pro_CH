@@ -19,4 +19,5 @@ PRODUCT_MAKEFILES := \
    
 COMMON_LUNCH_CHOICES := \
     twrp_OnePlus9Pro_CH-user \  
-
+    twrp_OnePlus9Pro_CH-userdebug \ 
+    twrp_OnePlus9Pro_CH-eng
